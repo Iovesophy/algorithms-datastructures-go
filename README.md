@@ -1,2 +1,2 @@
 # algorithms-datastructures-go
-Inspired by C algorithms and data structures .
+Inspired by C algorithms and data structures.
