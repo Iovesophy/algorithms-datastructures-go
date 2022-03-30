@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"algostruct-go/pkg/zeroone"
+)
 
 func main() {
-	fmt.Println("vim-go")
+	zeroone.Sum()
 }
